@@ -82,7 +82,7 @@ analytics:
 author:
   name             : &name
   avatar           : "profile.png"
-  bio              : &description
+  bio              : "He / Him"
   location         : "Salt Lake City, Utah"
   employer         :
   pubmed           :
