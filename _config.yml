@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alex Crane"
 title_separator          : "-"
 name                     : &name "Alex Crane"
-description              : &description "Computer Science PhD student at the University of Utah School of Computing. He/Him."
+description              : &description "Computer Science PhD student at the University of Utah. He/Him."
 url                      : https://alexcrane0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexcrane0/alexcrane0.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : #"alexcrane0"
   vine             :
   weibo            :
   xing             :
