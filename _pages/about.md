@@ -15,4 +15,4 @@ hypergraphs.
 # Publications
 - **Overlapping and Robust Edge-Colored Clustering in Hypergraphs**  
 Alex Crane, Brian Lavallee, Blair D. Sullivan, and Nate Veldt  
-[arXiv preprint (2023)](https://arxiv.org/abs/2305.17598)
+WSDM 2024 | [arXiv](https://arxiv.org/abs/2305.17598)
