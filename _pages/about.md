@@ -21,4 +21,4 @@ Matthias Bentert, Alex Crane, Pål Grønås Drange, Felix Reidl, and Blair D. Su
 [arXiv preprint](https://arxiv.org/abs/2402.10335)
 - **Overlapping and Robust Edge-Colored Clustering in Hypergraphs**  
 Alex Crane, Brian Lavallee, Blair D. Sullivan, and Nate Veldt  
-WSDM 2024 | [arXiv](https://arxiv.org/abs/2305.17598)
+[WSDM 2024](https://dl.acm.org/doi/10.1145/3616855.3635792) | [arXiv](https://arxiv.org/abs/2305.17598)
