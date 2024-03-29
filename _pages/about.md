@@ -18,7 +18,7 @@ hypergraphs.
 ### Publications
 - **Correlation Clustering with Vertex Splitting**  
 Matthias Bentert, Alex Crane, Pål Grønås Drange, Felix Reidl, and Blair D. Sullivan  
-[arXiv preprint](https://arxiv.org/abs/2402.10335)
+SWAT 2024 | [arXiv preprint](https://arxiv.org/abs/2402.10335)
 - **Overlapping and Robust Edge-Colored Clustering in Hypergraphs**  
 Alex Crane, Brian Lavallee, Blair D. Sullivan, and Nate Veldt  
 [WSDM 2024](https://dl.acm.org/doi/10.1145/3616855.3635792) | [arXiv](https://arxiv.org/abs/2305.17598)
