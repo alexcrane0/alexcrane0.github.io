@@ -16,11 +16,11 @@ hypergraphs.
 <br />
 
 ### Publications
-- **Optimizing Information Access in Networks via Edge Augmentation**
-Aditya Bhaskara, Alex Crane, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili
+- **Optimizing Information Access in Networks via Edge Augmentation**  
+Aditya Bhaskara, Alex Crane, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili  
 [arXiv preprint](https://arxiv.org/pdf/2407.02624)
-- **Leveraging Fixed-Parameter Tractability for Robot Inspection Planning**
-Yosuke Mizutani, Daniel Coimbra Salomao, Alex Crane, Matthias Bentert, Pål Grønås Drange, Felix Reidl, Alan Kuntz, and Blair D. Sullivan
+- **Leveraging Fixed-Parameter Tractability for Robot Inspection Planning**  
+Yosuke Mizutani, Daniel Coimbra Salomao, Alex Crane, Matthias Bentert, Pål Grønås Drange, Felix Reidl, Alan Kuntz, and Blair D. Sullivan  
 [arXiv preprint](https://arxiv.org/pdf/2407.00251)
 - **Correlation Clustering with Vertex Splitting**  
 Matthias Bentert, Alex Crane, Pål Grønås Drange, Felix Reidl, and Blair D. Sullivan  
