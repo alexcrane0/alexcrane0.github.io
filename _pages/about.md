@@ -17,11 +17,17 @@ hypergraphs.
 
 ### Publications
 - **Optimizing Information Access in Networks via Edge Augmentation**
+
 Aditya Bhaskara, Alex Crane, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili
+
 [arXiv preprint](https://arxiv.org/pdf/2407.02624)
+
 - **Leveraging Fixed-Parameter Tractability for Robot Inspection Planning**
+
 Yosuke Mizutani, Daniel Coimbra Salomao, Alex Crane, Matthias Bentert, Pål Grønås Drange, Felix Reidl, Alan Kuntz, and Blair D. Sullivan
+
 [arXiv preprint](https://arxiv.org/pdf/2407.00251)
+
 - **Correlation Clustering with Vertex Splitting**  
 Matthias Bentert, Alex Crane, Pål Grønås Drange, Felix Reidl, and Blair D. Sullivan  
 [SWAT 2024](https://drops.dagstuhl.de/storage/00lipics/lipics-vol294-swat2024/LIPIcs.SWAT.2024.8/LIPIcs.SWAT.2024.8.pdf) | [arXiv](https://arxiv.org/abs/2402.10335)
