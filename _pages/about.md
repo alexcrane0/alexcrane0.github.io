@@ -16,6 +16,9 @@ hypergraphs.
 <br />
 
 ### Publications
+- **Fast algorithms to improve fair information access in networks**\
+Dennis Robert Windham, Caroline J. Wendt, Alex Crane, Sorelle A. Friedler, Blair D. Sullivan, and Aaron Clauset\
+[arXiv preprint](https://arxiv.org/abs/2409.03127)
 - **Optimizing Information Access in Networks via Edge Augmentation**\
 Aditya Bhaskara, Alex Crane, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili\
 [arXiv preprint](https://arxiv.org/pdf/2407.02624)
