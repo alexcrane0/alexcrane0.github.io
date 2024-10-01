@@ -23,7 +23,7 @@ Matthias Bentert, Daniel Coimbra Salomao, Alex Crane, Yosuke Mizutani, Felix Rei
 Dennis Robert Windham, Caroline J. Wendt, Alex Crane, Sorelle A. Friedler, Blair D. Sullivan, and Aaron Clauset\
 [arXiv preprint](https://arxiv.org/abs/2409.03127)
 - **Optimizing Information Access in Networks via Edge Augmentation**\
-Aditya Bhaskara, Alex Crane, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili\
+Aditya Bhaskara, Alex Crane, Shweta Jain, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili\
 [arXiv preprint](https://arxiv.org/abs/2407.02624)
 - **Leveraging Fixed-Parameter Tractability for Robot Inspection Planning**\
 Yosuke Mizutani, Daniel Coimbra Salomao, Alex Crane, Matthias Bentert, Pål Grønås Drange, Felix Reidl, Alan Kuntz, and Blair D. Sullivan\
