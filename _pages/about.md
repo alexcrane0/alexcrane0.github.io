@@ -16,7 +16,7 @@ hypergraphs.
 <br />
 
 ### Publications
-- **Edge Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**\
+- **Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**\
 Alex Crane, Thomas Stanley, Blair D. Sullivan, and Nate Veldt\
 [arXiv preprint](https://arxiv.org/abs/2502.13000)
 - **A Space-Efficient Algebraic Approach to Robotic Motion Planning**\
