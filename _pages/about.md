@@ -16,11 +16,14 @@ hypergraphs.
 <br />
 
 ### Publications
-- **Graph Inspection for Robotic Motion Planning: Do Arithmetic Circuits Help?**\
+- **Edge Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**\
+Alex Crane, Thomas Stanley, Blair D. Sullivan, and Nate Veldt\
+[arXiv preprint](https://arxiv.org/abs/2502.13000)
+- **A Space-Efficient Algebraic Approach to Robotic Motion Planning**\
 Matthias Bentert, Daniel Coimbra Salomao, Alex Crane, Yosuke Mizutani, Felix Reidl, and Blair D. Sullivan\
 [arXiv preprint](https://arxiv.org/abs/2409.08219)
 - **Fast algorithms to improve fair information access in networks**\
-Dennis Robert Windham, Caroline J. Wendt, Alex Crane, Sorelle A. Friedler, Blair D. Sullivan, and Aaron Clauset\
+Dennis Robert Windham, Caroline J. Wendt, Alex Crane, Madelyn J Warr, Freda Shi, Sorelle A. Friedler, Blair D. Sullivan, and Aaron Clauset\
 [arXiv preprint](https://arxiv.org/abs/2409.03127)
 - **Optimizing Information Access in Networks via Edge Augmentation**\
 Aditya Bhaskara, Alex Crane, Shweta Jain, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili\
