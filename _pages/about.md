@@ -19,15 +19,15 @@ hypergraphs.
 - **Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**\
 Alex Crane, Thomas Stanley, Blair D. Sullivan, and Nate Veldt\
 [arXiv preprint](https://arxiv.org/abs/2502.13000)
-- **A Space-Efficient Algebraic Approach to Robotic Motion Planning**\
-Matthias Bentert, Daniel Coimbra Salomao, Alex Crane, Yosuke Mizutani, Felix Reidl, and Blair D. Sullivan\
-[arXiv preprint](https://arxiv.org/abs/2409.08219)
 - **Fast algorithms to improve fair information access in networks**\
 Dennis Robert Windham, Caroline J. Wendt, Alex Crane, Madelyn J Warr, Freda Shi, Sorelle A. Friedler, Blair D. Sullivan, and Aaron Clauset\
 [arXiv preprint](https://arxiv.org/abs/2409.03127)
 - **Optimizing Information Access in Networks via Edge Augmentation**\
 Aditya Bhaskara, Alex Crane, Shweta Jain, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili\
 [arXiv preprint](https://arxiv.org/abs/2407.02624)
+- **A Space-Efficient Algebraic Approach to Robotic Motion Planning**\
+Matthias Bentert, Daniel Coimbra Salomao, Alex Crane, Yosuke Mizutani, Felix Reidl, and Blair D. Sullivan\
+SIAM ACDA 2025 | [arXiv](https://arxiv.org/abs/2409.08219)
 - **Leveraging Fixed-Parameter Tractability for Robot Inspection Planning**\
 Yosuke Mizutani, Daniel Coimbra Salomao, Alex Crane, Matthias Bentert, Pål Grønås Drange, Felix Reidl, Alan Kuntz, and Blair D. Sullivan\
 WAFR 2024 | [arXiv](https://arxiv.org/abs/2407.00251)
