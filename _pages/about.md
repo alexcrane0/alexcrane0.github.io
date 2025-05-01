@@ -15,19 +15,13 @@ hypergraphs.
 <br />
 <br />
 
-### Publications
-- **Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**\
-Alex Crane, Thomas Stanley, Blair D. Sullivan, and Nate Veldt\
-[arXiv preprint](https://arxiv.org/abs/2502.13000)
-- **Fast algorithms to improve fair information access in networks**\
-Dennis Robert Windham, Caroline J. Wendt, Alex Crane, Madelyn J Warr, Freda Shi, Sorelle A. Friedler, Blair D. Sullivan, and Aaron Clauset\
-[arXiv preprint](https://arxiv.org/abs/2409.03127)
-- **Optimizing Information Access in Networks via Edge Augmentation**\
-Aditya Bhaskara, Alex Crane, Shweta Jain, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili\
-[arXiv preprint](https://arxiv.org/abs/2407.02624)
+### Conference Papers
 - **A Space-Efficient Algebraic Approach to Robotic Motion Planning**\
 Matthias Bentert, Daniel Coimbra Salomao, Alex Crane, Yosuke Mizutani, Felix Reidl, and Blair D. Sullivan\
 SIAM ACDA 2025 | [arXiv](https://arxiv.org/abs/2409.08219)
+- **Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**\
+Alex Crane, Thomas Stanley, Blair D. Sullivan, and Nate Veldt\
+ICML 2025 | [arXiv](https://arxiv.org/abs/2502.13000)
 - **Leveraging Fixed-Parameter Tractability for Robot Inspection Planning**\
 Yosuke Mizutani, Daniel Coimbra Salomao, Alex Crane, Matthias Bentert, Pål Grønås Drange, Felix Reidl, Alan Kuntz, and Blair D. Sullivan\
 WAFR 2024 | [arXiv](https://arxiv.org/abs/2407.00251)
@@ -37,3 +31,14 @@ Matthias Bentert, Alex Crane, Pål Grønås Drange, Felix Reidl, and Blair D. Su
 - **Overlapping and Robust Edge-Colored Clustering in Hypergraphs**  
 Alex Crane, Brian Lavallee, Blair D. Sullivan, and Nate Veldt  
 [WSDM 2024](https://dl.acm.org/doi/10.1145/3616855.3635792) | [arXiv](https://arxiv.org/abs/2305.17598)
+
+<br />
+<br />
+
+### Manuscripts
+- **Fast algorithms to improve fair information access in networks**\
+Dennis Robert Windham, Caroline J. Wendt, Alex Crane, Madelyn J Warr, Freda Shi, Sorelle A. Friedler, Blair D. Sullivan, and Aaron Clauset\
+[arXiv preprint](https://arxiv.org/abs/2409.03127)
+- **Optimizing Information Access in Networks via Edge Augmentation**\
+Aditya Bhaskara, Alex Crane, Shweta Jain, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili\
+[arXiv preprint](https://arxiv.org/abs/2407.02624)
