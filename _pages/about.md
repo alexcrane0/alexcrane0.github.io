@@ -36,6 +36,9 @@ Alex Crane, Brian Lavallee, Blair D. Sullivan, and Nate Veldt
 <br />
 
 ### Manuscripts
+- **Equalizing Closeness Centralities via Edge Additions**\
+Alex Crane, Sorelle A. Friedler, Mihir Patel, and Blair D. Sullivan\
+[arXiv preprint](https://www.arxiv.org/abs/2505.06222)
 - **Fast algorithms to improve fair information access in networks**\
 Dennis Robert Windham, Caroline J. Wendt, Alex Crane, Madelyn J Warr, Freda Shi, Sorelle A. Friedler, Blair D. Sullivan, and Aaron Clauset\
 [arXiv preprint](https://arxiv.org/abs/2409.03127)
