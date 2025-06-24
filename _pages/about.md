@@ -36,6 +36,9 @@ Alex Crane, Brian Lavallee, Blair D. Sullivan, and Nate Veldt
 <br />
 
 ### Manuscripts
+- **Structural Optimal Jacobian Accumulation and Minimum Edge Count are NP-Complete Under Vertex Elimination**\
+Matthias Bentert, Alex Crane, Pål Grønås Drange, Yosuke Mizutani, and Blair D. Sullivan\
+[arXiv preprint](https://arxiv.org/abs/2506.17521)
 - **Equalizing Closeness Centralities via Edge Additions**\
 Alex Crane, Sorelle A. Friedler, Mihir Patel, and Blair D. Sullivan\
 [arXiv preprint](https://www.arxiv.org/abs/2505.06222)
