@@ -20,7 +20,7 @@ I am on the postdoc job market.
 
 ### Publications
 - **An Evaluation of Vertex Elimination Strategies for Algorithmic Differentiation**\
-Alex Crane, Pål Grønås Drange, Eli Friedman, Paul D. Hovland, Jan Hückelheim, Andrew Lyons, Yosuke Mizutani, Macéo Ottavy, Blair D. Sullivan\
+Alex Crane, Pål Grønås Drange, Eli Friedman, Paul D. Hovland, Jan Hückelheim, Andrew Lyons, Yosuke Mizutani, Macéo Ottavy, and Blair D. Sullivan\
 ACDA 2027 | [arXiv](https://arxiv.org/abs/2605.24280)
 - **Optimizing Probabilistic Propagation in Graphs by Adding Edges**\
 Aditya Bhaskara, Alex Crane, Shweta Jain, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, and Prasanth Yalamanchili\
@@ -55,7 +55,7 @@ Alex Crane, Carl Feghali, Felicia Lucke, Blair D. Sullivan, and Madelyn J. Warr\
 Matthias Bentert, Alex Crane, Pål Grønås Drange, Yosuke Mizutani, and Blair D. Sullivan\
 [arXiv preprint](https://arxiv.org/abs/2506.17521)
 - **Equalizing Closeness Centralities via Edge Additions**\
-Alex Crane, Sorelle A. Friedler, Mihir Patel, and Blair D. Sullivan\
+Alex Crane, Sorelle A. Friedler, Mihir Patel, Freda Shi, Blair D. Sullivan, and Madelyn J. Warr\
 [arXiv preprint](https://www.arxiv.org/abs/2505.06222)
 
 
